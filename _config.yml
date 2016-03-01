@@ -1,7 +1,7 @@
 name: Harvey Tan
 favicon: null
-layout_spectrum: 0.9356340870726854
-typography_spectrum: 0.7899149442091584
+layout_spectrum: 1
+typography_spectrum: 0.69319
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.13524720631539822
+    - '#dadee1'
+    - '#79859b'
+    - '#010101'
+    - '#414141'
+    - '#656976'
+  brandStrength: 1
   lightness: 0.4360639078076929
-  saturation: 0.9869476535823196
-  rhythmicContrast: 0.44835793995298445
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
